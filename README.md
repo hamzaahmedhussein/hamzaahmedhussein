@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hamza Ahmed!
 
 ## About Me
-- **Passionate About**: Web Development, with a focus on backend technologies.
-- **What I'm Learning**: Currently diving into Angular while enhancing my backend skills.
+- **Focus**: Web Development, with an emphasis on backend technologies.
+- **What I'm Learning**: Currently exploring Angular while advancing my backend skills.
 - **Strength**: Strong problem-solving abilities.
 
 ## Collaboration Interests
